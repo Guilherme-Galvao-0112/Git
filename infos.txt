@@ -1,0 +1,5 @@
+Este repositorio será editado e feito inteiramente pelo git bash.
+Apenas utilizando comandos no git barsh, sem utilizar nenhum tipo de editor de texto.
+'
+
+
